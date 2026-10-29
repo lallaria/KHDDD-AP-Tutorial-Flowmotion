@@ -1,0 +1,8 @@
+title: KHDDD AP Flowmotion Tutorial Fix
+originalAuthor: Delilah
+description: Emergency fix that grants full flowmotion while Sora's Traverse Town flowmotion tutorials are unfinished. Disable once past them.
+assets:
+- name: scripts/khddd_flowmotion_tutorial_fix.lua
+  method: copy
+  source:
+  - name: khddd_flowmotion_tutorial_fix.lua
